@@ -1,1 +1,1 @@
-# Rendszeruzemeltetes3
+# Rendszerüzemeltetés 3 tantárgy gyakorlata
